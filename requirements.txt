@@ -1,0 +1,4 @@
+git+https://github.com/jlmcgehee21/python-OBD.git@fix/osx_failure_to_connect
+flask
+Flask-WTF==0.14.2
+Flask-Material==0.1.1
